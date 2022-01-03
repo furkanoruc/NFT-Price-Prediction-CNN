@@ -1,5 +1,19 @@
 # NFT Price Predictor
 
+Dataset has been obtained from @article{2021,
+   title={Mapping the NFT revolution: market trends, trade networks, and visual features},
+   volume={11},
+   ISSN={2045-2322},
+   url={http://dx.doi.org/10.1038/s41598-021-00053-8},
+   DOI={10.1038/s41598-021-00053-8},
+   number={1},
+   journal={Scientific Reports},
+   publisher={Springer Science and Business Media LLC},
+   author={Nadini, Matthieu and Alessandretti, Laura and Di Giacinto, Flavio and Martino, Mauro and Aiello, Luca Maria and Baronchelli, Andrea},
+   year={2021},
+   month={Oct}
+}
+
 ## Installing Prerequisites
 
 Install using `requirements.txt`
