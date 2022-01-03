@@ -1,2 +1,15 @@
-# NFT-Price-Prediction-CNN
-Using visual feature extraction, prices of NFTs are predicted via CNN (Alexnet and Resnet) architectures.
+# NFT Price Predictor
+
+## Installing Prerequisites
+
+Install using `requirements.txt`
+
+```shell
+conda create --name nft-price-predictor --file conda-requirements.txt
+```
+
+or install the below directly using `pip` or `conda` (using `pip` may not work at the moment)
+
+```shell
+conda install numpy pandas pillow tensorflow keras
+```
