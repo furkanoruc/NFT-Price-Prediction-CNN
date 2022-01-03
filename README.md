@@ -1,5 +1,8 @@
 # NFT Price Predictor
 
+Project proposal can be found at: https://furkanoruc.github.io/NFT-Price-Prediction-CNN/Proposal.pdf
+
+
 Dataset has been obtained from @article{2021,
    title={Mapping the NFT revolution: market trends, trade networks, and visual features},
    volume={11},
